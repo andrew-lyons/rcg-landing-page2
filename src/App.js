@@ -1,24 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
+import NavbarComponent from './component/Navbar.js'
+import JumbotronComponent from './component/Jumbotron.js'
+import {
+  Row,
+  Col
+} from 'reactstrap'
 import './App.css';
+import 'font-awesome/css/font-awesome.min.css';
+
 
 function App() {
+  const img = require('./rcg-logo-v4.png')
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NavbarComponent />
+      <Row className="content">
+        <Col md="5">
+          <h1 className="content" >Really Cheap Geeks</h1>
+          <img src={img} className="App-logo content" alt="logo" />
+        </Col>
+        <Col md="7">
+          <JumbotronComponent />
+        </Col>
+      </Row>
     </div>
   );
 }

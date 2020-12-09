@@ -9,12 +9,13 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 30s linear;
+    animation: 
   }
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: White;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,6 +27,18 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.content {
+  margin: 30px 0 70px 0;
+}
+
+.smol-jumbotron-margin {
+  margin: 0 10px 0 10px;
+}
+
+.icon-margins {
+  margin: 5px 10px 5px 10px;
 }
 
 @keyframes App-logo-spin {
