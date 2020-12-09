@@ -17,7 +17,7 @@ const NavbarComponent = (props) => {
   return (
     <div>
       <Navbar color="light" light expand="md">
-        <NavbarBrand href="/">RCG Home</NavbarBrand>
+        <NavbarBrand href="/rcg-landing-page/">RCG Home</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
