@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/rcg-landing-page/static/css/main.dbae2d7d.chunk.css",
-    "main.js": "/rcg-landing-page/static/js/main.c06c8217.chunk.js",
-    "main.js.map": "/rcg-landing-page/static/js/main.c06c8217.chunk.js.map",
-    "runtime-main.js": "/rcg-landing-page/static/js/runtime-main.a2453188.js",
-    "runtime-main.js.map": "/rcg-landing-page/static/js/runtime-main.a2453188.js.map",
-    "static/css/2.7b693e1d.chunk.css": "/rcg-landing-page/static/css/2.7b693e1d.chunk.css",
-    "static/js/2.630b33b2.chunk.js": "/rcg-landing-page/static/js/2.630b33b2.chunk.js",
-    "static/js/2.630b33b2.chunk.js.map": "/rcg-landing-page/static/js/2.630b33b2.chunk.js.map",
-    "index.html": "/rcg-landing-page/index.html",
-    "precache-manifest.601738754c943021d1f8f7071aea5bff.js": "/rcg-landing-page/precache-manifest.601738754c943021d1f8f7071aea5bff.js",
-    "service-worker.js": "/rcg-landing-page/service-worker.js",
-    "static/css/2.7b693e1d.chunk.css.map": "/rcg-landing-page/static/css/2.7b693e1d.chunk.css.map",
-    "static/css/main.dbae2d7d.chunk.css.map": "/rcg-landing-page/static/css/main.dbae2d7d.chunk.css.map",
-    "static/js/2.630b33b2.chunk.js.LICENSE.txt": "/rcg-landing-page/static/js/2.630b33b2.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/rcg-landing-page/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/rcg-logo-v4.png": "/rcg-landing-page/static/media/rcg-logo-v4.bd09b2ab.png"
+    "main.css": "/static/css/main.dbae2d7d.chunk.css",
+    "main.js": "/static/js/main.f47fd24e.chunk.js",
+    "main.js.map": "/static/js/main.f47fd24e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb80a749.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb80a749.js.map",
+    "static/css/2.a3896999.chunk.css": "/static/css/2.a3896999.chunk.css",
+    "static/js/2.630b33b2.chunk.js": "/static/js/2.630b33b2.chunk.js",
+    "static/js/2.630b33b2.chunk.js.map": "/static/js/2.630b33b2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bf4f32fd1f3b1f37efeb03fbed28db9d.js": "/precache-manifest.bf4f32fd1f3b1f37efeb03fbed28db9d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a3896999.chunk.css.map": "/static/css/2.a3896999.chunk.css.map",
+    "static/css/main.dbae2d7d.chunk.css.map": "/static/css/main.dbae2d7d.chunk.css.map",
+    "static/js/2.630b33b2.chunk.js.LICENSE.txt": "/static/js/2.630b33b2.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/rcg-logo-v4.png": "/static/media/rcg-logo-v4.bd09b2ab.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2453188.js",
-    "static/css/2.7b693e1d.chunk.css",
+    "static/js/runtime-main.fb80a749.js",
+    "static/css/2.a3896999.chunk.css",
     "static/js/2.630b33b2.chunk.js",
     "static/css/main.dbae2d7d.chunk.css",
-    "static/js/main.c06c8217.chunk.js"
+    "static/js/main.f47fd24e.chunk.js"
   ]
 }
